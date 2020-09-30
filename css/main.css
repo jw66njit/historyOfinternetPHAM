@@ -10,7 +10,10 @@ body {
     font-size: 20px;
     padding: 13px;
     padding-bottom: 55px;
-}
+    color: darkgoldenrod;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 li{
     display:inline;
 }
@@ -43,7 +46,7 @@ li{
     padding-left: 6px;
     padding-right: 6px
     padding-top: 21px;
-    float: right;
+    float: left;
     font-size: 11px;
     line-height: 18px;
 }
