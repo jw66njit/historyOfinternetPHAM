@@ -4,6 +4,7 @@ body {
     line-height: 37px;
     padding: 23px;
 }
+
 #primary-links{
     height:34px;
     line-height:34px;
@@ -46,7 +47,7 @@ li{
     float: left;
     font-size: 11px;
     line-height: 18px;
-    position: fixed;
+
 }
 }
 
@@ -54,7 +55,8 @@ li{
     font-size: 23px;
     line-height: 35px;
     margin-bottom: 18px;
-    position:fixed;
+    float:left;
+
 }
 
 #content h1 {
