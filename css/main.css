@@ -4,16 +4,14 @@ body {
     line-height: 37px;
     padding: 23px;
 }
+
 #primary-links{
     height:34px;
     line-height:34px;
     font-size: 20px;
     padding: 13px;
     padding-bottom: 55px;
-    color: darkgoldenrod;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+}
 li{
     display:inline;
 }
@@ -49,6 +47,7 @@ li{
     float: left;
     font-size: 11px;
     line-height: 18px;
+
 }
 }
 
@@ -56,6 +55,8 @@ li{
     font-size: 23px;
     line-height: 35px;
     margin-bottom: 18px;
+    float:left;
+
 }
 
 #content h1 {
