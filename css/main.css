@@ -40,12 +40,13 @@ li{
 
 #sidebar{
     max-width: 276px;
-    padding-left:46px;
-    padding-right:46px;
+    padding-left: 6px;
+    padding-right: 6px
     padding-top: 21px;
     float: left;
     font-size: 11px;
     line-height: 18px;
+}
 }
 
 #sidebar h1{
