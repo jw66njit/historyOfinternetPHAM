@@ -27,7 +27,7 @@ li{
 }
 
 #content{
-    max-width: 544px;
+    max-width: 684px;
     padding-left: 24px;
     padding-right: 24px;
     float: left;
@@ -36,9 +36,9 @@ li{
 }
 
 #sidebar{
-    max-width: 368px;
-    padding-left:130px;
-    padding-right:19px;
+    max-width: 276px;
+    padding-left:46px;
+    padding-right:46px;
     padding-top: 21px;
     float: left;
     font-size: 11px;
@@ -82,5 +82,10 @@ h4 {
     margin-bottom: 9px;
 }
 .card{
-    border:5px goldenrod;
+    border:1px goldenrod;
+    padding-left: 52px;
+    padding-right: 52px;
+    padding-bottom: 52px;
+    padding-top: 52px;
+    float:left;
 }
