@@ -5,10 +5,11 @@ body {
     padding: 23px;
 }
 #primary-links{
-    height:55px;
-    line-height:55px;
+    height:34px;
+    line-height:34px;
     font-size: 20px;
-    padding: 21px;
+    padding: 13px;
+    padding-bottom: 55px;
 }
 li{
     display:inline;
@@ -30,6 +31,8 @@ li{
     max-width: 684px;
     padding-left: 24px;
     padding-right: 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
     float: left;
     font-size: 16px;
     line-height: 27px;
@@ -55,7 +58,7 @@ li{
     font-size: 33px;
     line-height: 51px;
     margin-bottom: 27px;
-    color: goldenrod;
+    color: darkgoldenrod;
 }
 
 #footer{
@@ -68,12 +71,16 @@ h2 {
     line-height: 57px;
     margin-top: 60px;
     margin-bottom: 23px;
+    font-weight:bold;
+    text-decoration:darkgoldenrod underline;
+    text-decoration-style: dotted;
 }
 h3 {
-    font-size: 28px;
+    font-size: 17px;
     line-height: 46px;
     margin-top: 37px;
     margin-bottom: 14px;
+
 }
 h4 {
     font-size: 22px;
@@ -83,9 +90,14 @@ h4 {
 }
 .card{
     border:1px goldenrod;
-    padding-left: 52px;
-    padding-right: 52px;
-    padding-bottom: 52px;
-    padding-top: 52px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
     float:left;
 }
+
+.tab, h3{
+    margin-left: 40px;
+}
+
