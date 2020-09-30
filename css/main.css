@@ -37,6 +37,7 @@ li{
     font-size: 16px;
     line-height: 27px;
 }
+
 #sidebar{
     max-width: 276px;
     padding-left: 6px;
@@ -45,16 +46,17 @@ li{
     float: left;
     font-size: 11px;
     line-height: 18px;
+    position: fixed;
+}
+}
 
-}
-}
 #sidebar h1{
     font-size: 23px;
     line-height: 35px;
     margin-bottom: 18px;
-
-    float:left;
+    position:fixed;
 }
+
 #content h1 {
     font-size: 33px;
     line-height: 51px;
@@ -101,4 +103,3 @@ h4 {
 .tab, h3{
     margin-left: 40px;
 }
-
